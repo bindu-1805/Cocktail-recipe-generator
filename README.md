@@ -11,7 +11,7 @@ Axios is used to make HTTP requests.
    ```
 2. Navigate to the project directory
    ```
-   cd folder_name
+   cd Cocktail-recipe-generator
    ```
 3. Install dependencies 
    ```
